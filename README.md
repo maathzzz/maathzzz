@@ -1,7 +1,8 @@
- ![Snake animation](https://github.com/maathzzz/maathzzz/blob/output/github-contribution-grid-snake.svg)
+<h1> Olá! Eu sou o Matheus!</h1>
 
+<center><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&langs_count=7&theme=great-gatsby&bg_color=#071a16"/></center><br>
 
-
+![Snake animation](https://github.com/maathzzz/maathzzz/blob/output/github-contribution-grid-snake.svg) 
 
 <!--
 **maathzzz/maathzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
