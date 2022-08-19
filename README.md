@@ -3,6 +3,8 @@
 </div>
 
   <div> <br>
+  <p><em> • 17 anos </em></p><br>
+  <p><em> • Xadrez, livros, matemática ♟️ </em></p><br>
   <p><em> • Cursando Desenvolvimento de Sistemas e o 3º ano na <a href="http://www.etecjau.com.br/etecjau/"> Etec Jaú</a> </em> <br>
   <em> • Atualmente aprendendo Javascript <img align="center" alt="Rafa-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> e Python <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </em></p> <br>
   </div>
