@@ -10,8 +10,9 @@
   </div>
   
 <div align="" style="display: inline_block">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+     <a href="mailto:matheusdeamorim20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     <a href="https://www.instagram.com/m.athz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+     <a href="https://open.spotify.com/user/matheusamorimf?si=edf78970e28b4c25"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <br><br>
 </div>
 
