@@ -6,7 +6,7 @@
      <em> • 18 anos 👽 </em> <br>
      <em> • Xadrez, Livros e Jogos ♟️ </em>
      <p><em> • Técnico em Desenvolvimento de Sistemas </em> <br>
-     <em> • Atualmente aprendendo Javascript<img align="center" alt="Rafa-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> e React <img align="center" alt="Rafa-react" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg"> </em></p> 
+     <em> • Atualmente aprendendo Javascript<img align="center" alt="Rafa-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> e React <img align="center" alt="Rafa-python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg"> </em></p> 
   </div>
   
 <div align="" style="display: inline_block">
