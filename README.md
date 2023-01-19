@@ -6,7 +6,7 @@
      <em> • 18 anos 👽 </em> <br>
      <em> • Xadrez, Livros e Jogos ♟️ </em>
      <p><em> • Técnico em Desenvolvimento de Sistemas </em> <br>
-     <em> • Atualmente aprendendo Javascript<img align="center" alt="Rafa-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> e React <img align="center" alt="Rafa-python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg"> </em></p> 
+     <em> • Atualmente aprendendo Javascript<img align="center" alt="Rafa-javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> e React<img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
   </div>
   
 <div align="" style="display: inline_block">
@@ -23,24 +23,20 @@
 
 <div align="">
 <br>
-  <h2> Linguagens e tecnologias: </h2> 
+  <h2> Linguagens | tecnologias: </h2> 
 </div>
 
 <div align="" style="display: inline_block">
 
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
+  img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
   
 </div>
 
