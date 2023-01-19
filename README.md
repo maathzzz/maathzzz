@@ -36,7 +36,7 @@
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" />
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
-  img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
   
 </div>
 
