@@ -23,7 +23,7 @@
 
 <div align="">
 <br>
-  <h2> Linguagens | tecnologias: </h2> 
+  <h2> Ferramentas: </h2> 
 </div>
 
 <div align="" style="display: inline_block">
