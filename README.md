@@ -1,8 +1,8 @@
 <div align="">
-  <h1> Olá, Eu sou o Matheus 💻👾 </h1>
+  <h1> Olá, eu sou o Matheus! 💻👾 </h1>
 </div>
 
-  <div> <br>
+  <div align=""> <br>
      <em> • 18 anos 👽 </em> <br>
      <em> • Xadrez, Livros e Jogos ♟️ </em>
      <p><em> • Técnico em Desenvolvimento de Sistemas </em> <br>
@@ -23,13 +23,14 @@
 
 <div align="">
 <br>
-  <h2> Ferramentas: </h2> 
+  <h2> Tools: </h2> 
 </div>
 
 <div align="" style="display: inline_block">
 
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+  <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
