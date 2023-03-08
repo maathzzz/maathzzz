@@ -19,7 +19,7 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maathzzz&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Matheus A. GitHub" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical" />
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical" />
   
 </div>
 
