@@ -1,12 +1,12 @@
 <div align="center">
-  <h1> Olá, eu sou o Matheus! </h1>
+  <h1> Hello, I'm Matheus! 改善 </h1>
 </div>
 
   <div align="center"> <br>
-     <em> • 18 anos 👽 </em> <br>
-     <em> • Xadrez, Livros e Jogos ♟️ </em>
-     <p><em> • Técnico em Desenvolvimento de Sistemas </em> <br>
-     <em> • Atualmente aprendendo Javascript<img align="center" alt="Rafa-javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> e React<img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
+     <p><em> • I am a front-end developer at Zuvia. </em> <br>
+     <em> • Computer Science student at Unisagrado. </em> <br/>
+       <em> • I Like to read, play chess and videogames♟️ </em>
+     <em> • Currently learning Javascript<img align="center" alt="Rafa-javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> and React <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
   </div>
   
 <div align="center" style="display: inline_block">
