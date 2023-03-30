@@ -6,7 +6,7 @@
      <p><em> • I am a front-end developer at Zuvia. </em> <br>
      <em> • Computer Science student at Unisagrado. </em> <br/>
        <em> • I Like to read, play chess and videogames♟️ </em>
-     <em> • Currently learning Javascript<img align="center" alt="Rafa-javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> and React <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
+     <em> • Currently learning Python<img align="center" alt="Rafa-python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> and React <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
   </div>
   
 <div align="center" style="display: inline_block">
