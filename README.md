@@ -8,12 +8,7 @@
        <em> • I Like to read, play chess and videogames♟️ </em>
      <em> • Currently learning Python<img align="center" alt="Rafa-python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> and React <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
   </div>
-  
-<div align="center" style="display: inline_block">
-     <a href="https://www.instagram.com/m.athz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-     <a href="https://open.spotify.com/user/matheusamorimf?si=edf78970e28b4c25"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <br><br>
-</div>
+<br />
 
 <div align="center" style="display: inline_block, justify-content:center"> 
   
