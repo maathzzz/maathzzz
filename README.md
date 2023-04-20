@@ -12,9 +12,9 @@
 
 <div align="center" style="display: inline_block, justify-content:center"> 
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maathzzz&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Matheus A. GitHub" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maathzzz&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true&&border_radius=8" alt="Matheus A. GitHub" /> 
   
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical" />
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
   
 </div>
 
@@ -34,4 +34,6 @@
 </div>
 
 ##
- 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maathzzz&repo=pomodoro-timer&theme=radical)](https://pomodoro-timer-maathzzz.vercel.app/)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maathzzz&repo=my-notes-vue3&theme=radical)](https://mynotes-vue.netlify.app/)
