@@ -34,6 +34,3 @@
 </div>
 
 ##
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maathzzz&repo=pomodoro-timer&theme=radical)](https://pomodoro-timer-maathzzz.vercel.app/)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maathzzz&repo=my-notes-vue3&theme=radical)](https://mynotes-vue.netlify.app/)
