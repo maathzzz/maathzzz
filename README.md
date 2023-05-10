@@ -3,10 +3,9 @@
 </div>
 
   <div align="center"> <br>
-     <p><em> • I am a front-end developer at Zuvia. </em> <br>
+     <p><em> • I'm a front-end developer at Zuvia. </em> <br>
      <em> • Computer Science student at Unisagrado. </em> <br/>
-       <em> • I Like to read, play chess and videogames♟️ </em>
-     <em> • Currently learning React <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </em></p> 
+       <em> • I Like to read, play chess and videogames♟️ </em> </p> 
   </div>
 <br />
 
