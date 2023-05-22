@@ -22,7 +22,7 @@
 
 <div align="center" style="display: inline_block">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,vuejs,nuxt,vite,php,mysql,cs,github,vscode,visualstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vuejs,nodejs,nuxt,vite,php,mysql,cs,github,vscode,visualstudio)](https://skillicons.dev)
   
 </div>
 
