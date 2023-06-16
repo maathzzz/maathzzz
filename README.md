@@ -1,9 +1,9 @@
 <div align="center">
-  <h1> Hello, I'm Matheus! 👽👨‍💻 </h1>
+  <h1> Hello! 👽👨‍💻 </h1>
 </div>
 
   <div align="center"> <br>
-     <p><em> • I'm a front-end developer at Zuvia. </em> <br>
+     <p><em> • Front-end developer at Zuvia. </em> <br>
      <em> • Computer Science student at Unisagrado. </em> <br/>
        <em> • I Like to read, play chess and videogames♟️ </em> </p> 
   </div>
