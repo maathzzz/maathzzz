@@ -12,7 +12,7 @@
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=maathzzz&theme=radical&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
   
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
+  <img width="49%" height="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
   
 </div>
 
