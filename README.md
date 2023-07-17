@@ -1,17 +1,16 @@
 <div align="center">
-  <h1> Hello! 👽👨‍💻 </h1>
+  <h1> Hey there! 👋👨‍💻 </h1>
 </div>
 
   <div align="center"> <br>
-     <p><em> • Front-end developer at Zuvia. </em> <br>
-     <em> • Computer Science student at Unisagrado. </em> <br/>
-       <em> • I Like to read, play chess and videogames♟️ </em> </p> 
+     <p><em> • I'm a web developer. I'm also a Computer Science student 👽 </em> <br>
+       <em> • Passionate about learning, reading, playing chess and videogames♟️ </em> </p> 
   </div>
 <br />
 
-<div align="center" style="display: inline_block, justify-content:center"> 
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maathzzz&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=false&&border_radius=8" alt="Matheus A. GitHub" /> 
+<div align="center" style="display: inline_block, justify-content: center"> 
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=maathzzz&theme=radical&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
   
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
   
@@ -31,4 +30,3 @@
 <!-- ![Snake animation](https://github.com/maathzzz/maathzzz/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
-
