@@ -8,11 +8,11 @@
   </div>
 <br />
 
-<div align="center" style="display: inline_block, justify-content: center"> 
+<div align="center" style="display: inline-block, justify-content: center"> 
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=maathzzz&theme=radical&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
   
-  <img width="49%" height="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
+  <img width="54%" height="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
   
 </div>
 
