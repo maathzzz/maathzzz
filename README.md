@@ -13,16 +13,16 @@
   
 </div>
 
-## My Stacks
+## 🕹️ My Stacks
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,figma,nodejs,react,next,vuejs,nuxt,mongo,postman,github,vscode)](https://skillicons.dev)
 
   
-## Other Knowledges
+## 🌐 Other Knowledges
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,php,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
 
-## Currently Learning
+## 📚 Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,unity)](https://skillicons.dev)
 
