@@ -7,10 +7,7 @@
 <br />
 
 <div align="start" style="display: inline-block, justify-content:"start"> 
-
-   [![GitHub Streak](https://streak-stats.demolab.com?user=maathzzz&theme=radical&hide_border=true&border_radius=8&mode=weekly&card_width=430)](https://git.io/streak-stats)
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
-  
 </div>
 
 ## 🕹️ My Stacks
