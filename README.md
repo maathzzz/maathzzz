@@ -21,7 +21,7 @@
 
 ## 📚 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,svelte,cpp,unity)](https://skillicons.dev)
 
 <div align="start">
   
