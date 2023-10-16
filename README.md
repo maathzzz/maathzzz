@@ -1,7 +1,7 @@
   # 👋 Hey! 👨‍💻 
-<div align="start"> <br>
-    <p> 👽 I'm a web developer and a Computer Science student   </p> 
-    <p> ♟️ Passionate about learning, reading, playing chess and videogames  </p> 
+<div align="column"> <br>
+     👽 Web Developer currently majoring Computer Science  <br>
+     ♟️ Passionate about learning, reading, playing chess and videogames 
 </div>
 
 <br />
