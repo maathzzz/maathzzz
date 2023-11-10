@@ -17,7 +17,7 @@
   
 ## 🌐 Other Knowledges
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,php,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,cs,py,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
 
 ## 📚 Currently Learning
 
