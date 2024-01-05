@@ -1,7 +1,7 @@
   # 👋 Hey! 👨‍💻 
 <div align="column"> <br>
-     👽 Web Developer currently majoring Computer Science.  <br>
-     ♟️ Passionate about learning, reading, playing chess and videogames.
+     👽 Web Developer currently majoring Computer Science  <br>
+     ♟️ Passionate about learning, reading, playing chess and videogames
 </div>
 
 <br />
