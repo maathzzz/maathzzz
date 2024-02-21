@@ -1,6 +1,6 @@
   # 👋 Hey! 👨‍💻 
 <div align="column"> <br>
-     👽 Web Developer currently majoring Computer Science.  <br>
+     👽 Game Developer currently majoring Computer Science.  <br>
      ♟️ Passionate about learning, reading, playing chess and videogames.
 </div>
 
@@ -17,7 +17,7 @@
   
 ## 🌐 Other Knowledges
 
-[![My Skills](https://skillicons.dev/icons?i=php,cs,py,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,php,cs,py,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
 
 ## 📚 Currently Learning
 
