@@ -24,8 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 
 <div align="start">
-  
-![Snake animation](https://github.com/maathzzz/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <p>Visitors</p>
  <img align="center" src="https://profile-counter.glitch.me/{maathzzz}/count.svg" />
