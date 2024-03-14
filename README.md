@@ -25,7 +25,8 @@
 
 <div align="start">
   
-<!-- ![Snake animation](https://github.com/maathzzz/maathzzz/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/maathzzz/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 <p>Visitors</p>
  <img align="center" src="https://profile-counter.glitch.me/{maathzzz}/count.svg" />
 </div>
