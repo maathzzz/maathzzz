@@ -7,7 +7,8 @@
 <br />
 
 <div align="start" style="display: inline-block, justify-content:"start"> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&border_radius=8" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maathzzz&theme=tokyonight&hide_border=true&border_radius=8&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ## 🕹️ My Stacks
