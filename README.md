@@ -18,11 +18,7 @@
   
 ## 🌐 Other Knowledges
 
-[![My Skills](https://skillicons.dev/icons?i=unity,php,cs,py,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
-
-## 📚 Currently Learning
-
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,godot,php,cs,py,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
 
 <div align="start">
 
