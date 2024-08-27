@@ -15,11 +15,6 @@
     
 
   </p>
-  
-    Learning
-    
-    │   • machine learning
-    │   • game dev
 
 
   ## 🕹️ stacks
