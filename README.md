@@ -15,18 +15,16 @@
     
 
   </p>
-
+  
     Learning
     
     │   • machine learning
     │   • game dev
-    │   • neural networks
 
 
   ## 🕹️ stacks
     
   [![My Skills](https://skillicons.dev/icons?i=c,cs,py,git,unity,godot,html,css,js,react,nodejs,tailwind,figma)](https://skillicons.dev)
-  
     
   ## 🌐 other
   
