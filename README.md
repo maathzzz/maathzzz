@@ -1,27 +1,40 @@
-  # 👋 Hey! 👨‍💻 
-<div align="column"> <br>
-     👽 Game Developer currently majoring Computer Science  <br>
-     ♟️ Passionate about learning, reading, playing chess and videogames
-</div>
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="https://github.com/maathzzz/maathzzz/blob/main/image.jpg" alt="image" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+       
+    Matheus A. - Game Developer & Fullstack
+    
+    │   • systems development technician
+    │   • computer science undergraduate @ unisagrado 4/8
+    │   • game developer @ kingpanda 👑🐼
+    │   • likes games, chess, D&D and TCG
+    
 
-<br />
+  </p>
 
-<div align="start" style="display: inline-block, justify-content:"start"> 
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathzzz&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&border_radius=8" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maathzzz&theme=tokyonight&hide_border=true&border_radius=8&mode=weekly&card_width=450" alt="GitHub Streak" /></a>
-</div>
+    Learning
+    
+    │   • machine learning
+    │   • game dev
+    │   • neural networks
 
-## 🕹️ My Stacks
+
+  ## 🕹️ stacks
+    
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,py,git,unity,godot,html,css,js,react,nodejs,tailwind,figma)](https://skillicons.dev)
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,figma,nodejs,react,next,vuejs,nuxt,mongo,postman,github,vscode)](https://skillicons.dev)
-
+    
+  ## 🌐 other
   
-## 🌐 Other Knowledges
+  [![My Skills](https://skillicons.dev/icons?i=typescript,php,mysql,postgresql,prisma,docker,vite,next,vuejs,nuxt,mongo,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,godot,php,cs,py,mysql,postgresql,prisma,docker,vite,visualstudio)](https://skillicons.dev)
+  </td>
 
-<div align="start">
 
-<p>Visitors</p>
- <img align="center" src="https://profile-counter.glitch.me/{maathzzz}/count.svg" />
-</div>
+        
+  </tr>
+</table>
