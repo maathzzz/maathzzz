@@ -8,14 +8,13 @@
        
     Matheus A. - Game Developer & Fullstack
     
+
+  </p>
+  
     │   • systems development technician
     │   • computer science undergraduate @ unisagrado 4/8
     │   • game developer @ kingpanda 👑🐼
     │   • likes games, chess, D&D and TCG
-    
-
-  </p>
-
 
   ## 🕹️ stacks
     
