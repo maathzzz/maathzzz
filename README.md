@@ -11,9 +11,9 @@
 
   </p>
   
-    │   • systems development technician
     │   • computer science undergraduate @ unisagrado 5/8
-    │   • game developer @ kingpanda 👑🐼
+    │   • systems development technician
+    │   • game developer @ kingpanda 👑🐼 & alatus games 🕹
     │   • likes games, chess, D&D and TCG
 
   ## 🕹️ stacks
