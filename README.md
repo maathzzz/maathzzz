@@ -6,7 +6,7 @@
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
-    Matheus A. - Game Developer & Fullstack
+    Matheus A. - Software Engineer & Game Developer
     
 
   </p>
