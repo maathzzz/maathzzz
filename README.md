@@ -15,7 +15,6 @@
     │   • systems development technician
     │   • software engineer @ kingpanda 👑🐼 
     │   • game dev @ alatus games 🕹
-    │   • likes games, chess, D&D and TCG
 
   ## 🕹️ stacks
     
