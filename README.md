@@ -11,10 +11,10 @@
 
   </p>
   
-    │   • computer science undergraduate @ unisagrado 5/8
-    │   • systems development technician
     │   • software engineer @ kingpanda 👑🐼 
     │   • game dev @ alatus games 🕹
+    │   • computer science undergraduate @ unisagrado 5/8
+    │   • systems development technician
 
   ## 🕹️ stacks
     
