@@ -11,9 +11,9 @@
 
   </p>
   
-    │   • software engineer @ kingpanda 👑🐼 
+    │   • tech lead/software engineer @ kingpanda 👑🐼 
     │   • game dev @ alatus games 🕹
-    │   • computer science undergraduate @ unisagrado 5/8
+    │   • computer science undergraduate @ unisagrado 7/8
     │   • systems development technician
 
   ## 🕹️ stacks
