@@ -11,7 +11,7 @@
 
   </p>
   
-    │   • tech lead/software engineer @ kingpanda 👑🐼 
+    │   • software engineer @ segurobet 👑🐼 
     │   • game dev @ alatus games 🕹
     │   • computer science undergraduate @ unisagrado 7/8
     │   • systems development technician
