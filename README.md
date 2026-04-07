@@ -11,8 +11,8 @@
 
   </p>
   
-    │   • software engineer @ segurobet 👑🐼 
-    │   • game dev @ alatus games 🕹
+    │   • software engineer 
+    │   • game dev 
     │   • computer science undergraduate @ unisagrado 7/8
     │   • systems development technician
 
