@@ -12,8 +12,8 @@
   </p>
   
     │   • software engineer 
-    │   • game dev 
-    │   • computer science undergraduate @ unisagrado 7/8
+    │   • weekend game dev 
+    │   • computer science undergraduate @ unisagrado 8/8
     │   • systems development technician
 
   ## 🕹️ stacks
