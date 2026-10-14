@@ -11,8 +11,6 @@ I'm a **Full Stack Software Engineer** focused on TypeScript, React/Next.js, and
   <br>
   🚀 Building AI-first projects at Gamesmart Asia Limited
   <br>
-  🎮 Making games on the weekends
-  <br>
   ♟️ Math, chess, and books
 </p>
 
