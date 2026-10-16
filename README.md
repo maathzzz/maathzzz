@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Matheus!
 
-I'm a **Full Stack Software Engineer** focused on TypeScript, React/Next.js, and Node.js. I build complete web applications, from the front end to APIs, databases, and cloud infrastructure, creating **AI-first** solutions for iGaming and fintech platforms.
+I'm a **Full Stack Software Engineer** focused on TypeScript, React/Next.js, and Node.js. I build complete web applications, from the front end to APIs, databases, and cloud infrastructure.
 
 ## About me
 
