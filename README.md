@@ -59,14 +59,6 @@ I'm a **Full Stack Software Engineer** focused on TypeScript, React/Next.js, and
 ###
 
 <p align="left">
-  I currently build <strong>AI-first</strong> solutions for <strong>iGaming</strong> platforms at Gamesmart Asia Limited, working on CMS, backoffice, bonus, and user experience projects.
-  <br><br>
-  I was a Front-End Tech Lead and later took over the technology of an operation with <strong>2 million users</strong>, where I evolved the <strong>serverless infrastructure on AWS</strong> and built the <strong>CI/CD pipeline with GitHub Actions</strong> from scratch.
-  <br><br>
-  Outside of code, I enjoy math, chess, and books, and I make games on the weekends. 🎮
-</p>
-
-<p align="left">
   Let's connect? Send me an email or reach out on LinkedIn!
 </p>
 
