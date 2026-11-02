@@ -8,10 +8,6 @@ I'm a **Full Stack Software Engineer** focused on TypeScript, React/Next.js, and
   💻 Systems Development Technician from ETEC
   <br>
   🎓 Computer Science undergraduate at UNISAGRADO
-  <br>
-  🚀 Building AI-first projects at Gamesmart Asia Limited
-  <br>
-  ♟️ Math, chess, and books
 </p>
 
 ## 🛠️ Technologies
